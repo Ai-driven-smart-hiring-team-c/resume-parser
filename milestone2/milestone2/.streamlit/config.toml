@@ -1,0 +1,6 @@
+# Put this file at  .streamlit/config.toml  (next to app.py).
+# Streamlit then uses cobalt for tabs, progress bars, checkboxes and links,
+# and stays in light mode even if the computer is set to dark mode.
+[theme]
+base = "light"
+primaryColor = "#2F55D4"
